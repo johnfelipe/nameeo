@@ -9,14 +9,14 @@ const Header = () => {
                 <img src={process.env.PUBLIC_URL + '/images/Hero.svg'} alt="hero" className="hero-img"></img>
             </div>
             <div className="hero-description">
-                <h1>Welcome to NameeO</h1>
-                <p className="text">Get creative name ideas for your new Project or Startup.</p>
+                <h1>Bienvenido de NOMBRALO UDEA</h1>
+                <p className="text">Obten ideas de nombres creativos para el proyecto de PLANVIEW.</p>
                 <ul className="features">
                     <li>
-                        <p><b>🎴 Availability: </b> Check if name is available to Register on new Domain.</p>
+                        <p><b>🎴 Disponibilidad: </b> Compruebe si el nombre está disponible para registrarse en el nuevo dominio.</p>
                     </li>
                     <li>
-                        <p><b>🌿 Uniqueness: </b> Get list of all names according to your Keyword.</p>
+                        <p><b>🌿 Unicidad: </b> Obtener lista de todos los nombres según su palabra clave.</p>
                     </li>
                 </ul>
             </div>
